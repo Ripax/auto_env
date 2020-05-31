@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 # Setenv v1.0
 # Powered by HTMLDigger
 # Credits goes to HTMLdigger
